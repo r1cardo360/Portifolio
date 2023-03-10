@@ -1,6 +1,7 @@
 # Portifolio
 
 Portfólio criado com HTML5 e CSS3
+vizualizar: https://marvelous-heliotrope-440465.netlify.app
 
 # Como Utilizar
 
