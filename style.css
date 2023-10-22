@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Oswald&display=swap');
 
 :root{
-    --cor-primaria:#222831;
-    --cor-secundaria:#EEEEEE;
-    --cor-terciaria:#00ADB5;
-    --cor-houver:#393E46;
+    --cor-primaria:#ebe7e0;
+    --cor-secundaria:#44749d;
+    --cor-terciaria:#686868;
+    --cor-houver:#bdb8ad;
 
     --font-primaria:'Oswald', sans-serif;
     --font-secundaria:'open sans' sans-serif;
