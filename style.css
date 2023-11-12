@@ -128,6 +128,11 @@ body{
     margin: 20px;
     width: 90%;
     height: 90%;
+    transition: transform 0.3s ease-out;
+}
+
+.imagem-projetos:hover{
+    transform: scale(1.1);
 }
 
 .sub_titulo_card{
