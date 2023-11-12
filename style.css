@@ -182,3 +182,9 @@ body{
         padding: 4% 8%;
     }
 }
+
+@media(max-width:450px){
+    .card-projeto{
+        width: 90%;
+    }
+}
