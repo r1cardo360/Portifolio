@@ -126,8 +126,8 @@ body{
 
 .imagem-projetos{
     margin: 20px;
-    width: 30%;
-    height: 30%;
+    width: 90%;
+    height: 90%;
 }
 
 .sub_titulo_card{
@@ -147,11 +147,9 @@ body{
 @media(max-width:1100px){
     .container-projetos{
         flex-direction: column;
-
-    .imagem-projetos{
-        width: 90%;
-        height: 90%;
     }
+    .card-projeto{
+        width: 70%;
     }
 }
 
