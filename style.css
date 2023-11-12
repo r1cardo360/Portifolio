@@ -187,4 +187,7 @@ body{
     .card-projeto{
         width: 90%;
     }
+    .cabecalho__menu{
+        gap: 30px;
+    }
 }
